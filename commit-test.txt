@@ -5,3 +5,4 @@ testing qwen coder
 testing codex
 testing gemini
 testing claude and codex
+testing coderabbit

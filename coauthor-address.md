@@ -22,3 +22,8 @@
   ```
   Co-authored-by: Codex <noreply@openai.com>
   ```
+
+- CodeRabbit
+  ```
+  Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+  ```
