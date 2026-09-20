@@ -10,12 +10,12 @@ Use these in your commit messages to give credit to LLMs and have their avatars/
 
 | Assistant | Commit Trailer | Profile Linked | Contributor |
 | :--- | :--- | :---: | :---: |
-| **Claude** | `Co-authored-by: Claude <noreply@anthropic.com>` | ❓ | ❓ |
-| **Codex** | `Co-authored-by: Codex <noreply@openai.com>` | ❓ | ❓ |
+| **Claude** | `Co-authored-by: Claude <noreply@anthropic.com>` | ✅ | ✅ |
+| **Codex** | `Co-authored-by: Codex <noreply@openai.com>` |✅| ✅|
 | **Gemini** | `Co-authored-by: gemini-code-assist[bot] <176961590+gemini-code-assist[bot]@users.noreply.github.com>` | ✅ | ✅ |
 | **CodeRabbit** | `Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>` | ✅ | ✅ |
-| **Qwen Coder** | `Co-authored-by: Qwen-Coder <qwen-coder@alibabacloud.com>` | ❓ | ❓ |
-| **Z.ai (GLM)** | `Co-authored-by: GLM-5.3 <noreply@z.ai>` | ❓ | ❓ |
+| **Qwen Coder** | `Co-authored-by: Qwen-Coder <qwen-coder@alibabacloud.com>` |✅|✅|
+| **Z.ai (GLM)** | `Co-authored-by: GLM-5.3 <noreply@z.ai>` |✅|❓|
 
 ---
 
