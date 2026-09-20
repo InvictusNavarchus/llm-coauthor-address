@@ -4,6 +4,14 @@ A verified list of `Co-authored-by` Git commit trailers for AI coding assistants
 
 Use these in your commit messages to give credit to LLMs and have their avatars/identities properly displayed in GitHub commit histories.
 
+##  But why?
+
+You might wonder why would we need this when the AI coding agent already add their own `Co-authored-by` trailer to the commit message. 
+
+The problem is, they don't always do. In fact, Claude Code is probably the only one automatically doing it by default. in Codex, you need to turn on the feature first. In Antigravity CLI, the option doesn't even exist.
+
+You might also want to attribute AI in commits where you use their web interface instead of their AI coding agent, such as Google AI Studio.
+
 ---
 
 ## 📋 Quick Reference
