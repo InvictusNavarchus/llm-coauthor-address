@@ -52,3 +52,7 @@ This repository tests and validates whether GitHub:
 ## Contributing
 
 Know an official address for another AI assistant (e.g., GitHub Copilot, Cursor, Tabnine)? Feel free to open a PR!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
