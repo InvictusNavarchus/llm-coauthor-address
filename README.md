@@ -48,15 +48,6 @@ Co-authored-by: Claude <noreply@anthropic.com>
 Co-authored-by: Codex <noreply@openai.com>
 ```
 
----
-
-## Verification
-
-This repository tests and validates whether GitHub:
-1. Resolves the email to a registered GitHub user or GitHub App bot.
-2. Shows the AI assistant's avatar in the commit badge.
-3. Shows the AI assistant as one of the contributors in the repository's.
-
 ## Contributing
 
 Know an official address for another AI assistant (e.g., GitHub Copilot, Cursor, Tabnine)? Feel free to open a PR!
