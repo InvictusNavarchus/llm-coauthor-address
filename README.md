@@ -1,4 +1,4 @@
-# LLM Co-Author Addresses
+# LLM Co-Authors
 
 A verified list of `Co-authored-by` Git commit trailers for AI coding assistants. 
 
