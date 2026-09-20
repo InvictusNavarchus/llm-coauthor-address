@@ -6,3 +6,4 @@ testing codex
 testing gemini
 testing claude and codex
 testing coderabbit
+testing z.ai
